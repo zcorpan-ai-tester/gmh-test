@@ -1,4 +1,4 @@
 # gmh-test
 ## Colors
 
-Red, green, and bleu.
+Red, green, and blue.
