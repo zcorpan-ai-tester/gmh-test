@@ -1,3 +1,3 @@
 # Sizes
 
-Small, medium, large.
+Small, medium, and large.
