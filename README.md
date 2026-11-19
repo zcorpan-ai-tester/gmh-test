@@ -2,3 +2,7 @@
 ## Colors
 
 Red, green, and blue, in that order.
+
+## Fonts
+
+Serif only.
